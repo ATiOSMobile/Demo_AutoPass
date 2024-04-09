@@ -1,0 +1,15 @@
+{
+"applinks": {
+    "details": [
+      {
+        "appID": "35ZF742BVF.com.app.myvillage.test",
+        "paths": ["*"]
+      }
+    ]
+  },
+   "webcredentials":{
+      "apps":[
+         "35ZF742BVF.com.app.myvillage.test"
+      ]
+   }
+}
